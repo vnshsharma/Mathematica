@@ -1,3 +1,3 @@
 # Mathematica
 
-This is a mathematica file 
+This is a mathematica Repository for Numerical Method 
