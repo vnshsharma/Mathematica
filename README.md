@@ -1,3 +1,3 @@
 # Mathematica
 
-This is a mathematica Repository for Numerical Method 
+This is a Repository for Mathematica (Numerical Method).
